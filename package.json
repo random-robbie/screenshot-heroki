@@ -1,0 +1,24 @@
+{
+  "name": "puppeteer-heroku-screenshot-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabiofranchino/puppeteer-heroku-screenshot-service.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fabiofranchino/puppeteer-heroku-screenshot-service/issues"
+  },
+  "homepage": "https://github.com/fabiofranchino/puppeteer-heroku-screenshot-service#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "puppeteer": "^2.0.0"
+  }
+}
